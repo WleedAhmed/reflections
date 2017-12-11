@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Through that I can see what have been changed from the old version and the new version,
+    so I can solve the buggy part.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    So I can see the development of the code step by step, I can review my/others code quickly to get
+    what is going on, I can undu bad changes, I can use part of it ...
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    1)I can commit when I make a logical purpose, on the other hand I may forget to mommit,
+    or commiting many times like fixing each typo! which will be many commits without logical purpose.
+    2)automatically saved: I won't forget to commit "itt'll do it may be each hour", but it have many many cons!
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    because files may be related to each other as HTML and CSS files, and usually the projects have many files that I want
+    to track together,make change in two files then commit and then see diffrents have been made on those files at same time,
+    others aren't for coders, and the files are usually seperated "change in one file don't related/effect other files".
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log : show the history of commits alongside with their id,author,date and message.
+    git diff : show the differences between two commits "lines added and deleted"
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    because I can return to a previuos point easily, just using git checkout
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    „« ”  ÂÊ‘ Ì«⁄„ ⁄·‘«‰ «·ÃÂ«“ „« Ì⁄·ﬁ‘ ° Ê⁄«Ê“ « ﬁ»· ›Ì ÃÊÃ· ”«„— «Ê› ﬂÊœ ° Ê›Ì «‰ —›ÌÊ ÌÊœ«”Ì Ì Ê⁄«Ê“ «⁄„· »—Ê«ﬁ«Ì· ›‘ÌŒ ⁄·‘«‰ «·«ﬁÌ ‘€· 
