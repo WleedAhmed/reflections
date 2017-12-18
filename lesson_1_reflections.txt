@@ -37,4 +37,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    ãÇ ÓÊÊåæÔ íÇÚã ÚáÔÇä ÇáÌåÇÒ ãÇ íÚáŞÔ ¡ æÚÇæÒ ÇÊŞÈá İí ÌæÌá ÓÇãÑ Çæİ ßæÏ ¡ æİí ÇäÊÑİíæ íæÏÇÓíÊí æÚÇæÒ ÇÚãá ÈÑæÇŞÇíá İÔíÎ ÚáÔÇä ÇáÇŞí ÔÛá 
+    I will use it for my future projects, for my nanoodegree on udacity and when contributing to opensource.

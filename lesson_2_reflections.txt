@@ -1,18 +1,34 @@
 What happens when you initialize a repository? Why do you need to do it?
-
+	a hidden file called .git is created, which contain the history. all files in that directory and sub directories
+	I can use git on them
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	staging area is between them, after working dir and before repo. it's very important as I may want to
+	commit changes in specific files not all. 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	I can choose what to be commited through adding it to staging area, and I can see the diffrence between
+	staging area and most recent commit through dit diff --staged
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	When trying to make changes but not sure about it, and wouldn't like to break the code in
+	the master bransh, or another version with maybe orher lagnuages, I mean when I want to make something
+	with many options but same core !
+	you also can get bored working on something so you say: Okay, I'm gonna work on other thing and back to this later 
 
 How do the diagrams help you visualize the branch structure?
+	mmmmmm it shows commits before making a specific branch, commits in itm commits after cheking out from it.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	making a commit in branch1 which have the changes made in two branches, being able to reach commits in branch2 through branch1
+	as in 2 branches will be sortwwd due ti the date. maybe you will get a conflict that you should solve ot manually.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Automatic merging save a lot of time, but it fails if there is a conflict.
+	while manually take a time but you can solve the conflicts and choose what to merge.	
+
+
+
