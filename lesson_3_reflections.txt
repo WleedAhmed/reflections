@@ -2,29 +2,36 @@ When would you want to use a remote repository rather than keeping all your work
 local?
 
     When I want to share my project with other people all over the world. or I am working with
-    a team in the same project.
+    a team on the same project.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    so not to bother me when working locally -imagine having a sudden change in the code you work on!- also to choose what branch I want to pull
+    and where to pull it.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    -forks(online-online): get a copy of the whole repo including history,commits ... to my github account, it's like clone but online.
+    -clone(online-ofline/ofline-ofline): get a copy locally and be carefull git automatically set up a remote pointing up to the repo you cloned from.also to to copy to repo locally.
+    -branch: is to make another branch to work on or to try a new thing without breaking the code
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    to stay up to date without breaking my work, and to solve conflicts carefully
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I think we would use sometheng like googledrive or any thing where we can upload our code, but it surely won't have
+    this flexibility, it'll be hard to move smoothly between different versions, to merge our changes automatically,
+    to help solving conflicts and many other things...
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer her
+    When I want to work on something new without breaking my code, or maybe another feature..
+    also when working Online in github and want to contribute, so my master will be up to date with the online one,
+    and my contribution will be on another branch which I'll push and t hen make a pull request to merge it with onlinr master.
